@@ -110,6 +110,7 @@ The author wish to acknowledge Dr. Sandra Orsulic, Ph.D., Professor in Residence
 
 <!-- Professional assistance -->
 ## Professional Assistance
-No advice : This website contains general information about medical diagnostic tool that is still under research and development. Although we have acheived some promising breakthrough results, the information is not advice, and should not be treated as such. Professional assistance : You must not rely on the information on this website as an alternative to medical advice from your doctor or other professional healthcare provider. If you have any specific questions about any medical matter you should consult your doctor or other professional healthcare provider. If you think you may be suffering from any medical condition you should seek immediate medical attention. You should never delay seeking medical advice, disregard medical advice, or discontinue medical treatment because of information on this website.
+No advice : This website contains general information about medical diagnostic tool that is still under active research, development and evaluation. The author has shared promising breakthrough results, the information is not advice, and should not be treated as such. Professional assistance :  If you have any specific questions about any medical matter you should consult your doctor or other professional healthcare provider. You should never delay seeking medical advice, disregard medical advice, or discontinue medical treatment because of information on this website.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
