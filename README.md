@@ -72,6 +72,10 @@ OVision Overview
 ## Usage
 
 OVision - 3 click process to get results to aid create prognostic plans for Ovarian Cancer diagnosis
+
+1. Go the the link created by the 'Installation Guide'
+2. Upload 256x256 image for area of interest
+3. Get Results for prognostic assistance
 ![image](https://user-images.githubusercontent.com/76754142/211168747-7f682c21-b7de-49bf-b9cd-f113e9870eab.png)
 
 
