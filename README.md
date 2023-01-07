@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/samairamehta/OVision">
-    <img src="https://user-images.githubusercontent.com/76754142/211169896-c299988a-b274-4267-8427-ba331463eb32.png" alt="Logo" width="280" height="280">
-    
+ <img width="986" alt="Screen Shot 2023-01-07 at 3 16 29 PM" src="https://user-images.githubusercontent.com/76754142/211173706-bdf1053e-8d30-4825-bbc2-00dd720b5bb2.png" alt="Logo" width="90" height="380">
+   
   </a>
 <a name="readme-top"></a>
 <h3 align="center">OVision</h3>
