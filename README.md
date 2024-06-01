@@ -10,7 +10,7 @@
 <h3 align="center">OVision</h3>
 
   <p align="center">
-    OVision - A Raspberry-Pi Powered Portable, Low-Cost Medical Device Framework for Cancer Prognosis
+    OVision: Automatic Assessment of Ovarian Cancer Features & Mesothelin Protein Overexpression from Histopathological Images Using Deep Learning
     <br />
     <a href="https://github.com/samairamehta/OVision"><strong>Explore the docs »</strong></a>
     <br />
